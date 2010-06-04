@@ -19,7 +19,8 @@ Lesser General Public License for more details.
 License Information Regarding Third-Party Software
 --------------------------------------------------
 
-FanFair uses the SmartFwt third-party software, which is licensed under the 
+FanFair uses the [SmartFwt](http://github.com/dfreire/smartfwt) 
+third-party software, which is licensed under the 
 [GNU Lesser General Public License version 3][lgpl-3.0].
 
 
