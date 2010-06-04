@@ -7,7 +7,7 @@ FanFair License Information
 Copyright (c) 2010 Dário Freire
 
 FanFair is free software; you can redistribute it and/or modify it
-under the terms of the [GNU Lesser General Public License version 3][lgpl-3.0]
+under the terms of the [GNU Lesser General Public License version 3] [lgpl-3.0]
 as published by the Free Software Foundation.
 
 This software is distributed in the hope that it will be useful,
@@ -21,7 +21,7 @@ License Information Regarding Third-Party Software
 
 FanFair uses the [SmartFwt](http://github.com/dfreire/smartfwt) 
 third-party software, which is licensed under the 
-[GNU Lesser General Public License version 3][lgpl-3.0].
+[GNU Lesser General Public License version 3] [lgpl-3.0].
 
 
 [lgpl-3.0]: <http://www.gnu.org/licenses/lgpl-3.0.html>
