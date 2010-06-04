@@ -23,8 +23,5 @@ FanFair uses the SmartFwt third-party software, which is licensed under the
 [GNU Lesser General Public License version 3][lgpl-3.0].
 
 
-References
------------
-
-[lgpl-3.0]: http://www.gnu.org/licenses/lgpl-3.0.html
+[lgpl-3.0]: <http://www.gnu.org/licenses/lgpl-3.0.html>
 
